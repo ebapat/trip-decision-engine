@@ -42,7 +42,9 @@ and shows how the ranking changes when my priorities change.
 
 ## Eisenhower Matrix
 
-![Eisenhower Matrix](docs/Eisenhower Matrix .PDF)
+[View the Eisenhower Matrix (PDF)](docs/eisenhower-matrix.pdf)
+
+
 
 ## Status
 
